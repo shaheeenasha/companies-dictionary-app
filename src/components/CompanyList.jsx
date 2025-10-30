@@ -5,7 +5,7 @@ function CompanyList() {
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
 
-  // ✅ Fetch from JSON Server API
+  // ✅ Fetch data from your local JSON Server (port 5000)
   useEffect(() => {
     fetch("http://localhost:5000/companies")
       .then((res) => res.json())
