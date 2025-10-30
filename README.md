@@ -7,7 +7,7 @@ It features **dark/light themes**, smooth UI, and API integration using **JSON S
 
 ## 🚀 Live Demo
 
-🌐 **Live App:** [https://companies-dictionary-app.vercel.app](https://companies-dictionary-app.vercel.app)  
+🌐 **Live App:** [https://companies-dictionary-app-av1t.vercel.app/],[https://companies-dictionary-app-av1t-cyrgw8eph-shaikshaheenas-projects.vercel.app/]
 *(Replace this link after you deploy your project on Vercel.)*
 
 ---
